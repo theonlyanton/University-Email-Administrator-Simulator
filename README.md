@@ -4,7 +4,7 @@ I developed a small application to simulate how Rutgers University generates a n
 Applications of OOP are applied with numerous restrictions to provide responsive feedback to valid or invalid input.
 The main class is located within EmailApp.java .
 
-kjgjhhjk
+kjgjhhjk kgjhl
 
 
 
