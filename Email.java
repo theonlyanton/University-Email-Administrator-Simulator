@@ -80,13 +80,13 @@ public class Email {
         String userName = in.nextLine();
 
         String [] hello = userName.split(" ");
-        //Scanner toStr = new Scanner(userName);
+        /*Scanner toStr = new Scanner(userName);
 
         //int a = 0;
         //while(toStr.hasNext()) {
             //hello[a] = toStr.next();
             //a++;
-        //}
+        }*/
         for(int b = 0; b < hello.length; b++) {
             if(hello[b].length() < 3 || hello.length < 2) {
                 System.out.println();
@@ -152,13 +152,13 @@ public class Email {
         String departmentType = inThird.nextLine();
 
         String [] check = departmentType.split(" ");
-        //Scanner toStr = new Scanner(userName);
+        /*Scanner toStr = new Scanner(userName);
 
         //int a = 0;
         //while(toStr.hasNext()) {
             //hello[a] = toStr.next();
             //a++;
-        //}
+        }*/
         for(int g = 0; g < check.length; g++) {
             if(check[g].length() < 4 || check.length > 1) {
                 System.out.println();
